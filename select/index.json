@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "CRAZY (Japanese ver.)",
+  "base_artist": "LE SSERAFIM",
+  "createdAt": "2025-12-04T06:06:28.583780Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "CRAZY (Japanese ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/01_CRAZY_(Japanese_ver.)_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "CRAZY - Japanese ver.",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/02_CRAZY_-_Japanese_ver._LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "CRAZY (Japanese ver.)",
+      "artist": "LE SSERAFIM",
+      "has_synced": true,
+      "path": "select/03_CRAZY_(Japanese_ver.)_LE_SSERAFIM.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "CRAZY (Japanese ver.) (feat. JP THE WAVY)",
+      "artist": "LE SSERAFIM & JP THE WAVY",
+      "has_synced": false,
+      "path": "select/04_CRAZY_(Japanese_ver.)_(feat._JP_THE_WAVY)_LE_SSERAFIM_&_JP_THE_WAVY.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "CRAZY (Japanese ver.) (feat. JP THE WAVY)",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/05_CRAZY_(Japanese_ver.)_(feat._JP_THE_WAVY)_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "CRAZY (Japanese ver.)",
+      "artist": "LE SSERAFIM feat. JP THE WAVY",
+      "has_synced": false,
+      "path": "select/06_CRAZY_(Japanese_ver.)_LE_SSERAFIM_feat._JP_THE_WAVY.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crazy [Japanese Ver.]",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/07_Crazy_[Japanese_Ver.]_LE_SSERAFIM.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CRAZY - Japanese ver.",
+      "artist": "LE SSERAFIM",
+      "has_synced": false,
+      "path": "select/pl_01_CRAZY_-_Japanese_ver._LE_SSERAFIM.txt"
+    }
+  ]
+}
